@@ -22,8 +22,8 @@ d=[]
 for i in range(26):
     d.append(str(chr(97+i))*(i+1))
 print(d)
-print('#4')
 
+print('#4')
 a1=int(input())
 f1=[]
 f2=[]
